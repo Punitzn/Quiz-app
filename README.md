@@ -36,20 +36,6 @@ A responsive and dynamic quiz application built using HTML, CSS, and JavaScript.
 	•	A modern web browser (e.g., Chrome, Firefox, Edge).
 	•	Basic understanding of how to run HTML files locally.
 
-📥 Installation
-
-	1.	Clone the repository:
-
-git clone https://github.com/your-username/quiz-app.git  
-
-
-	2.	Navigate to the project folder:
-
-cd quiz-app  
-
-
-	3.	Open index.html in your browser to start the quiz.
-
 📂 Project Structure
 
 quiz-app/  
@@ -66,24 +52,6 @@ quiz-app/
 	4.	Click Next to move to the next question.
 	5.	At the end of the quiz, view your final score and replay if desired.
 
-🖥️ Live Demo
 
-Link to Live Demo (https://quizappjsprojectrfa.netlify.app/)
-
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to check the issues page (Replace with your GitHub issues link) for ideas.
-
-📜 License
-
-This project is licensed under the MIT License.
-
-📧 Contact
-
-Feel free to reach out if you have any questions or feedback!
-	•	Author: Abdullah Nazmus-Sakib
-	•	GitHub: AbdullahRFA
-	•	LinkedIn: Your LinkedIn Profile (https://www.linkedin.com/in/abdullah-nazmus-sakib-04024b261/)
 
 Happy coding! 😊
